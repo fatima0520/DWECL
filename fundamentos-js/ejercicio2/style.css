@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 40px;
+}
+
+.contenedor {
+    width: 700px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #444;
+}
+
+.enunciado {
+    background-color: #eeeeee;
+    padding: 15px;
+    border-radius: 5px;
+    line-height: 1.6;
+}
+
+#resultado {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.numero {
+    background-color: #ddd;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
